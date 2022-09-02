@@ -1,0 +1,18 @@
+body {
+	margin: 25px 0px;
+}
+
+.page-title {
+	text-align: center;
+}
+
+.site-title {
+	text-align: center;
+}
+
+footer {
+	margin: 10px 0px;
+	padding: 10px 0px;
+	background-color: gray;
+	text-align: center;
+}

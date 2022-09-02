@@ -1,0 +1,21 @@
+<!DOCTYPE>
+<html lang="es" >
+	<head>
+		<title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
+		<link rel="canonical" href="{{ .Site.BaseURL }}" />
+		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/entireframework.min.css" />
+		<link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/style.css" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta charset="utf-8" />
+	</head>
+	<body>
+		<header>
+			<h1 class="site-title" >SARUS</h1>
+		</header>
+		{{ partial "nav.html" . }}
+		<!--<nav class="nav" >
+			<div class="container" >
+				<a class="pagename current" href="{{ .Site.BaseURL }}" >Inicio</a>
+			</div>
+		</nav>-->
+		<main class="container">

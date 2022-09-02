@@ -1,0 +1,8 @@
+baseURL = 'http://servicio.us.es/sarus/'
+languageCode = 'es-es'
+title = 'SARUS'
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
