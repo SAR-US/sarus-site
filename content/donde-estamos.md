@@ -1,7 +1,6 @@
 ---
 title: "¿Dónde Estamos?"
 date: 2022-09-01T15:41:32+02:00
-draft: true
 menu: main
 ---
 

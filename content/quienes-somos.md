@@ -1,7 +1,6 @@
 ---
 title: "¿Quiénes Somos?"
 date: 2022-09-01T15:38:57+02:00
-draft: true
 menu: main
 ---
 
