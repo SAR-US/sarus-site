@@ -6,7 +6,7 @@ web](http://servicio.us.es/sarus/).
 
 Las páginas están escritas usando el lenguaje
 [markdown](https://www.markdownguide.org/tools/hugo/), y se compila utilizando
-el __framework__ de [Hugo](https://gohugo.io/).
+el _framework_ de [Hugo](https://gohugo.io/).
 
 ## Licencia
 
