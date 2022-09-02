@@ -2,7 +2,7 @@
 title: "⌂ Inicio"
 description: "Sitio web oficial del SARUS."
 menu: "main"
-weight: -1
+weight: -100
 ---
 
 El Servicio de Asistencia Religiosa de la Universidad de Sevilla (SARUS) nació

@@ -2,6 +2,7 @@
 title: "¿Quiénes Somos?"
 date: 2022-09-01T15:38:57+02:00
 menu: main
+weight: -85
 ---
 
 El SARUS está formado por sacerdotes y laicos universitarios (estudiantes,
