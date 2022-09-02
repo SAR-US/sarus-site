@@ -9,16 +9,16 @@ El Servicio de Asistencia Religiosa de la Universidad de Sevilla (SARUS) nació
 como fruto del Convenio de Cooperación entre la Universidad de Sevilla y el
 Arzobispado hispalense, firmado el 22 de noviembre de 1988, y que encuentra su
 fundamento tanto en los arts. 9 y 16 de nuestra Constitución como en los
-Acuerdos del Estado Español y la Santa Sede sobre Enseñanza y Asuntos
-Culturales, de 3 de Enero de 1977[1]. A través de dicho Convenio se facilitaba
-poder cubrir las necesidades de servicios religiosos de aquellos miembros de la
-comunidad universitaria que lo deseaban, y articular la contribución de la
-Iglesia católica al progreso de la cultura y la educación integral de la
-persona. La Universidad de Sevilla, según el espíritu democrático que inspira a
-tantos centros universitarios europeos y queriendo responder a la mejor
-tradición universitaria, siendo al mismo tiempo respetuosa con las creencias de
-la comunidad universitaria, posibilitó la consecución de estos objetivos
-mediante la creación del SARUS, en sus Estatutos de 1988.
+_Acuerdos del Estado Español y la Santa Sede_ sobre Enseñanza y Asuntos
+Culturales, de 3 de Enero de 1977<sup>[1]</sup>. A través de dicho Convenio se
+facilitaba poder cubrir las necesidades de servicios religiosos de aquellos
+miembros de la comunidad universitaria que lo deseaban, y articular la
+contribución de la Iglesia católica al progreso de la cultura y la educación
+integral de la persona. La Universidad de Sevilla, según el espíritu
+democrático que inspira a tantos centros universitarios europeos y queriendo
+responder a la mejor tradición universitaria, siendo al mismo tiempo respetuosa
+con las creencias de la comunidad universitaria, posibilitó la consecución de
+estos objetivos mediante la creación del SARUS, en sus Estatutos de 1988.
 
 Desde su creación el S.A.R.U.S ha sido dirigido por el Dr. D. Juan del Río
 Martín, actual Arzobispo Castrense de España, el Dr. D. José Mazuelos Pérez,
@@ -38,7 +38,7 @@ SARUS haya ido cumpliendo sus objetivos a través de sus tres áreas de acción:
   asignaturas y cursos de libre configuración relacionados con el diálogo
   fe-cultura, así como de seminarios y jornadas -normalmente en cooperación con
   diversos Departamentos e instituciones universitarias- que abordan el estudio
-  del fenómeno religioso desde diversas ópticas, y el Foro Humanismo y Ciencia
+  del fenómeno religioso desde diversas ópticas, y el _Foro Humanismo y Ciencia_
   constituido por un grupo de profesores de distintas especialidades, que
   además de fomentar el enriquecimiento mutuo e interdisciplinar, intenta
   dialogar y crear puentes entre la fe y la cultura contemporánea.
