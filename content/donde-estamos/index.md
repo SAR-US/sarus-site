@@ -14,7 +14,7 @@ Ingenieros, Aparejadores, y en la Capilla Universitaria (tardes).
 {{% table %}}
 | Centro | Horarios | Dirección | Teléfono |
 |--------|----------|-----------|----------|
-| Facultad de Filología | L,J,V: 08:00-13:00<br/>M,J: 17:00-19:30 | C/ San Fernando, 4<br/>41001 Sevilla | 954 55 11 44 |
-| E.U. Arquitectura Técnica | M,X: 08:00-14:00 | Avda. Reina Mercedes, s/n<br/>41012 Sevilla | 954 55 16 62 |
-| E.S. de Ingenieros | X: 08:00-13:30 | Entreplanta E-1, pasillo central,<br/>frente a Capilla Camino de los Descubrimientos s/n.<br/>41092 Sevilla (Isla de La Cartuja) | 954 48 61 47 |
+| ![Foto facultad de filología](derecho.jpg)<br/>Facultad de Filología | L,J,V: 08:00-13:00<br/>M,J: 17:00-19:30 | C/ San Fernando, 4<br/>41001 Sevilla | 954 55 11 44 |
+| ![Foto facultad de arquitectura](arquitectura.jpg)<br/>E.U. Arquitectura Técnica | M,X: 08:00-14:00 | Avda. Reina Mercedes, s/n<br/>41012 Sevilla | 954 55 16 62 |
+| ![Foto facultad de ingeniería](ingenieros.jpg)<br/>E.S. de Ingenieros | X: 08:00-13:30 | Entreplanta E-1, pasillo central,<br/>frente a Capilla Camino de los Descubrimientos s/n.<br/>41092 Sevilla (Isla de La Cartuja) | 954 48 61 47 |
 {{% /table %}}
